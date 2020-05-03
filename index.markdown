@@ -21,12 +21,19 @@ The Curry-Howard correspondence is an isomorphism between a logic (intuitionisti
 
 The current plan for the course is as follows:
 
-* Introduction to lambda calculus
-* Proof of the Church-Rosser theorem
-* Proof of strong normalisation for simply-typed lambda calculus
-* Introduction to sequent calculus
-* Proof of cut-elimination for sequent calculus
-* Proof of the Curry-Howard isomorphism
+* 1. What is computation?
+* 2. Introduction to lambda calculus
+    * 2.1 Untyped lambda calculus
+    * 2.2 Simply-typed lambda calculus
+    * 2.3 Programming in lambda calculus
+    * 2.4 Proof of the Church-Rosser theorem
+    * 2.5 Proof of strong normalisation for simply-typed lambda calculus
+* 3. Introduction to sequent calculus
+    * 3.1 What is logic?
+    * 3.2 Examples of proofs
+    * 3.3 Proof of cut-elimination for sequent calculus
+* 4. Proof of the Curry-Howard isomorphism
+* 5. Curry-Howard in the broader context of computer science
 
 ## Original seminar
 
