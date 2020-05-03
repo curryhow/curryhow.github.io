@@ -9,9 +9,7 @@ layout: home
 
 The Curry-Howard correspondence is a duality between logic and computation, sometimes referred to by the tagline "**propositions as types, proofs as programs**". 
 
-This website will host an online short course in the fundamentals of theoretical computer science, building to a proof of the Curry-Howard correspondence. The aim is to be accessible but still completely rigorous; this course will be a challenge. All lecture notes and videos for the course will be freely available.
-
-We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne.
+This website will host an online short course in the fundamentals of theoretical computer science, building to a proof of the Curry-Howard correspondence. The aim is to be accessible but still completely rigorous; this course will be a challenge. All lecture notes and videos for the course will be freely available. We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne.
 
 ## Course
 
@@ -37,11 +35,11 @@ The aim of the course is to give a complete proof of the Curry-Howard correspond
 
 ## People
 
-* **James Clift**
+* **James Clift**: Masters degree in Pure Mathematics, with a thesis on [Turing machines and differential linear logic](http://therisingsea.org/notes/MScThesisJamesClift.pdf).
 
-* **Will Troiani**
+* **[Will Troiani](https://williamtroiani.github.io/)**: Masters degree in Pure Mathematics, with a thesis on [categorical logic, topos theory and simplicial sets](https://williamtroiani.github.io/pdfs/FiniteSimplicialSetsareAlgorithms.pdf).
 
-* **[Daniel Murfet](http://therisingsea.org/)**: mathematician at the University of Melbourne, with research interests in algebraic geometry, logic, and deep learning.
+* **[Daniel Murfet](http://therisingsea.org/)**: Lecturer at the University of Melbourne, PhD in algebraic geometry with research interests also in logic and deep learning.
 
 ## Original seminar
 
