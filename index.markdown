@@ -7,7 +7,7 @@ layout: home
 
 ![Great ocean road](https://outbackfree.imgix.net/content/tours/Grayline/Great_Ocean_Road/064OK_IMGP0415-X2.jpg?w=1740&h=980&fit=crop&crop=center&auto=format)
 
-The Curry-Howard correspondence is an isomorphism between a logic (intuitionistic sequent calculus) and a programming language (simply-typed lambda calculus). This website will eventually host a complete course in the fundamentals of logic and theoretical computer science, leading up to a proof of the Curry-Howard correspondence. We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne.
+The Curry-Howard correspondence is an isomorphism between a logic (intuitionistic sequent calculus) and a programming language (simply-typed lambda calculus). This website will eventually host a short course in the fundamentals of theoretical computer science, aimed at giving a complete proof of the Curry-Howard correspondence. We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne.
 
 ## People
 
@@ -17,11 +17,20 @@ The Curry-Howard correspondence is an isomorphism between a logic (intuitionisti
 
 * **[Daniel Murfet](http://therisingsea.org/)**: mathematician at the University of Melbourne, with research interests in algebraic geometry, logic, and deep learning.
 
+## Course outline
+
+The current plan for the course is as follows:
+
+* Introduction to lambda calculus
+* Proof of the Church-Rosser theorem
+* Proof of strong normalisation for simply-typed lambda calculus
+* Introduction to sequent calculus
+* Proof of cut-elimination for sequent calculus
+* Proof of the Curry-Howard isomorphism
+
 ## Original seminar
 
-#### S2 2016 - Curry-Howard correspondence
-
-Our aim was to read Sorensen and Urzyczyn's book "Lectures on the Curry-Howard isomorphism", up to the proof of the original Curry-Howard correspondence (between simply-typed lambda calculus and intuitionistic logic) in Chapter 4.
+In Semester two of 2016 we ran a seminar on the topic of the Curry-Howard correspondence, largely following Sorensen and Urzyczyn's book "Lectures on the Curry-Howard isomorphism", up to the proof of the original Curry-Howard correspondence (between simply-typed lambda calculus and intuitionistic logic) in Chapter 4.
 
   * 14-7 William Troiani "The Church-Rosser Theorem" ([lecture notes](http://therisingsea.org/notes/talk-will-churchrosser.pdf))
   * 2-8 William Troiani "Introduction to lambda calculus" (Sections 1.1-1.3, [lecture notes](http://therisingsea.org/notes/talk-will-lambda.pdf))
