@@ -11,17 +11,9 @@ The Curry-Howard correspondence is an isomorphism between a logic (intuitionisti
 
 We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne.
 
-## People
+## Course
 
-* **James Clift**
-
-* **Will Troiani**
-
-* **[Daniel Murfet](http://therisingsea.org/)**: mathematician at the University of Melbourne, with research interests in algebraic geometry, logic, and deep learning.
-
-## Course outline
-
-The current plan for the course is as follows:
+The current rough plan for the course is as follows:
 
 * 1. What is computation?
 * 2. Introduction to lambda calculus
@@ -36,6 +28,14 @@ The current plan for the course is as follows:
     * 3.3 Proof of cut-elimination for sequent calculus
 * 4. Proof of the Curry-Howard isomorphism
 * 5. Curry-Howard in the broader context of computer science
+
+## People
+
+* **James Clift**
+
+* **Will Troiani**
+
+* **[Daniel Murfet](http://therisingsea.org/)**: mathematician at the University of Melbourne, with research interests in algebraic geometry, logic, and deep learning.
 
 ## Original seminar
 
