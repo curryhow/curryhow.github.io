@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Great ocean road](https://outbackfree.imgix.net/content/tours/Grayline/Great_Ocean_Road/064OK_IMGP0415-X2.jpg?w=1740&h=980&fit=crop&crop=center&auto=format)
+![Ocean and concrete](water.jpg?w=1740&h=1158&fit=crop&crop=center&auto=format)
 
 The Curry-Howard correspondence is a duality between logic and the mathematical theory of computation, sometimes referred to by the tagline "**propositions as types, proofs as programs**". More precisely, it is an isomorphism between a logic (intuitionistic sequent calculus) and a programming language (simply-typed lambda calculus). This website will eventually host an online short course in the fundamentals of theoretical computer science, aimed at giving a complete proof of the Curry-Howard correspondence. The aim is to be accessible but still completely rigorous; this course will be a challenge. All lecture notes and videos for the course will be freely available.
 
