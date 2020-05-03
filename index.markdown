@@ -7,7 +7,9 @@ layout: home
 
 ![Ocean and concrete](water-cut.png?w=1740&h=724&fit=crop&crop=center&auto=format)
 
-The Curry-Howard correspondence is a duality between logic and the mathematical theory of computation, sometimes referred to by the tagline "**propositions as types, proofs as programs**". This website will host an online short course in the fundamentals of theoretical computer science, building to a proof of the Curry-Howard correspondence. The aim is to be accessible but still completely rigorous; this course will be a challenge. All lecture notes and videos for the course will be freely available.
+The Curry-Howard correspondence is a duality between logic and computation, sometimes referred to by the tagline "**propositions as types, proofs as programs**". 
+
+This website will host an online short course in the fundamentals of theoretical computer science, building to a proof of the Curry-Howard correspondence. The aim is to be accessible but still completely rigorous; this course will be a challenge. All lecture notes and videos for the course will be freely available.
 
 We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne.
 
