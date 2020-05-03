@@ -17,8 +17,8 @@ The aim of the course is to give a complete proof of the Curry-Howard correspond
 
 Here is our version:
 
-* What is computation?
 * Introduction to lambda calculus
+    * What is a program?
     * Untyped lambda calculus
     * Simply-typed lambda calculus
     * Programming in lambda calculus
