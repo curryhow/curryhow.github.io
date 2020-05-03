@@ -7,7 +7,7 @@ layout: home
 
 ![Great ocean road](https://outbackfree.imgix.net/content/tours/Grayline/Great_Ocean_Road/064OK_IMGP0415-X2.jpg?w=1740&h=980&fit=crop&crop=center&auto=format)
 
-The Curry-Howard correspondence is an isomorphism between a logic (intuitionistic sequent calculus) and a programming language (simply-typed lambda calculus). It is sometimes referred to by the tagline "**proofs as programs**". This website will eventually host an online short course in the fundamentals of theoretical computer science, aimed at giving a complete proof of the Curry-Howard correspondence. The aim is to be accessible but still completely rigorous; this course will be a challenge. All lecture notes and videos for the course will be freely available.
+The Curry-Howard correspondence is a duality between logic and the mathematical theory of computation, sometimes referred to by the tagline "**proofs as programs**". More precisely, it is an isomorphism between a logic (intuitionistic sequent calculus) and a programming language (simply-typed lambda calculus). This website will eventually host an online short course in the fundamentals of theoretical computer science, aimed at giving a complete proof of the Curry-Howard correspondence. The aim is to be accessible but still completely rigorous; this course will be a challenge. All lecture notes and videos for the course will be freely available.
 
 We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/home) at the University of Melbourne.
 
@@ -15,19 +15,19 @@ We are part of the [School of Mathematics and Statistics](https://ms.unimelb.edu
 
 The current rough plan for the course is as follows:
 
-* 1. What is computation?
-* 2. Introduction to lambda calculus
-    * 2.1 Untyped lambda calculus
-    * 2.2 Simply-typed lambda calculus
-    * 2.3 Programming in lambda calculus
-    * 2.4 Proof of the Church-Rosser theorem
-    * 2.5 Proof of strong normalisation for simply-typed lambda calculus
-* 3. Introduction to sequent calculus
-    * 3.1 What is logic?
-    * 3.2 Examples of proofs
-    * 3.3 Proof of cut-elimination for sequent calculus
-* 4. Proof of the Curry-Howard isomorphism
-* 5. Curry-Howard in the broader context of computer science
+* What is computation?
+* Introduction to lambda calculus
+    * Untyped lambda calculus
+    * Simply-typed lambda calculus
+    * Programming in lambda calculus
+    * Proof of the Church-Rosser theorem
+    * Proof of strong normalisation for simply-typed lambda calculus
+* Introduction to sequent calculus
+    * What is logic?
+    * Examples of proofs
+    * Proof of cut-elimination for sequent calculus
+* Proof of the Curry-Howard isomorphism
+* Curry-Howard in the broader context of computer science
 
 ## People
 
