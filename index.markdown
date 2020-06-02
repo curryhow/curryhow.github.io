@@ -13,7 +13,7 @@ This website will host an online short course in the fundamentals of theoretical
 
 ## Course
 
-The aim of the course is to give a complete proof of the Curry-Howard correspondence, as an isomorphism of categories between a logic (intuitionistic sequent calculus) and a programming language (simply-typed lambda calculus). While there are many books and lectures on this topic (the two most famous being Sorensen and Urzyczyn's book "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)" and Wadler's "[Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)") these mostly focus on natural deduction for which the Curry-Howard correspondence is (in our opinion) best described as a wildly inspirational tautology; the proof has no content, and as mathematicians we are not satisfied with this version of the story.
+The aim of the course is to give a complete proof of the Curry-Howard correspondence, as an isomorphism of categories between a logic (intuitionistic sequent calculus) and a programming language (simply-typed lambda calculus). While there are many books and lectures on this topic (the two most famous being Sorensen and Urzyczyn's book "[Lectures on the Curry-Howard isomorphism](http://bookzz.org/s/?q=Lectures+on+the+Curry-Howard+Isomorphism&yearFrom=&yearTo=&language=&extension=&t=0)" and Wadler's "[Propositions as types](http://homepages.inf.ed.ac.uk/wadler/papers/propositions-as-types/propositions-as-types.pdf)") these mostly focus on natural deduction for which the Curry-Howard correspondence is (in our opinion) not very impressive.
 
 Here is our version:
 
@@ -34,6 +34,8 @@ Here is our version:
     * The category of proofs
 * Proof of the Curry-Howard isomorphism
 * Curry-Howard in the broader context of computer science
+
+For a beautifully written introduction to the history of interactions between logic and the theory of computation, we recommend Martin Davis' book "[The universal computer: the road from Leibniz to Turing](https://www.amazon.com.au/Universal-Computer-Leibniz-Turing-Third/dp/1138502081/ref=pd_lpo_14_t_0/356-0457671-4560607?_encoding=UTF8&pd_rd_i=1138502081&pd_rd_r=e9c02307-29a8-454d-9ff9-6d9bcb477dc6&pd_rd_w=3P6Za&pd_rd_wg=F0oMc&pf_rd_p=ad2d1e6e-bc60-4795-b4c0-2dbd35f6678d&pf_rd_r=3RN2NTR99F314RV7BT63&psc=1&refRID=3RN2NTR99F314RV7BT63)]".
 
 ## People
 
