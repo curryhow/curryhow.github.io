@@ -35,7 +35,7 @@ Here is our version:
 * Proof of the Curry-Howard isomorphism
 * Curry-Howard in the broader context of computer science
 
-For a beautifully written introduction to the history of interactions between logic and the theory of computation, we recommend Martin Davis' book "[The universal computer: the road from Leibniz to Turing](https://www.amazon.com.au/Universal-Computer-Leibniz-Turing-Third/dp/1138502081/ref=pd_lpo_14_t_0/356-0457671-4560607?_encoding=UTF8&pd_rd_i=1138502081&pd_rd_r=e9c02307-29a8-454d-9ff9-6d9bcb477dc6&pd_rd_w=3P6Za&pd_rd_wg=F0oMc&pf_rd_p=ad2d1e6e-bc60-4795-b4c0-2dbd35f6678d&pf_rd_r=3RN2NTR99F314RV7BT63&psc=1&refRID=3RN2NTR99F314RV7BT63)]".
+For a beautifully written introduction to the history of interactions between logic and the theory of computation, we recommend Martin Davis' book "[The universal computer: the road from Leibniz to Turing](https://www.amazon.com.au/Universal-Computer-Leibniz-Turing-Third/dp/1138502081/ref=pd_lpo_14_t_0/356-0457671-4560607?_encoding=UTF8&pd_rd_i=1138502081&pd_rd_r=e9c02307-29a8-454d-9ff9-6d9bcb477dc6&pd_rd_w=3P6Za&pd_rd_wg=F0oMc&pf_rd_p=ad2d1e6e-bc60-4795-b4c0-2dbd35f6678d&pf_rd_r=3RN2NTR99F314RV7BT63&psc=1&refRID=3RN2NTR99F314RV7BT63)".
 
 ## People
 
